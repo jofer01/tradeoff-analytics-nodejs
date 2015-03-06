@@ -6,7 +6,7 @@ declared-services:
 applications:
 - services:
   - tradeoff-analytics-service
-  name: tradeoff-analytics-nodejs
+  name: ci-moving-app-nodejs
   command: node app.js
   path: .
   memory: 128M
